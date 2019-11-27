@@ -6,3 +6,4 @@ git log -p
 git reset --soft 9f5a33bbec20fbcb55782932f6a758
 touch .gitignore
 
+nova linha
